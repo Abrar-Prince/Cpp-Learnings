@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int m,n;
+    int m;
     cout<<"Enter rows : ";
     cin>>m;
     for(int i = 1 ;i <= m ; i++){
